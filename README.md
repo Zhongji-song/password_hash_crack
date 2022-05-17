@@ -1,6 +1,7 @@
 # password_hash_crack
 
 - 使用手册：php pass.php ./pass.txt ./pass_hash.txt
+
 pass.txt 明文密码字典
 pass_hash.txt 加密过的密文
 
